@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sonu Hajela",
+      "email": "priyank.hajela@gmail.com",
+      "phone": "89-89001187",
+      "title": "Manager",
+      "company": "ConnectWise",
+      "website": "connectwise.org"
+    },
+    {
+      "id": 2,
+      "name": "Jai Kumar",
+      "email": "jai.kaushil67@gmail.com",
+      "phone": "90-89775621",
+      "title": "Sr. UI Developer",
+      "company": "St. Sault",
+      "website": "susault.org"
+    },
+    {
+      "id": 3,
+      "name": "Joe McMartin",
+      "email": "martin.joe@gmail.com",
+      "phone": "12-806578989",
+      "title": "Sr. Architect",
+      "company": "Google Inc.",
+      "website": "google.org"
+    },
+    {
+      "id": 4,
+      "name": "Helma Jones",
+      "email": "helma@jones.com",
+      "phone": "9921532429",
+      "title": "UI Developer",
+      "company": "St. Sault",
+      "website": "google.org"
+    },
+    {
+      "id": 5,
+      "name": "Tania Jones",
+      "email": "tania.josey@abc.com",
+      "phone": "9921532429",
+      "title": "Manager",
+      "company": "St. Sault",
+      "website": "website@abc.com"
+    },
+    {
+      "id": 6,
+      "name": "Shaagy Smith",
+      "email": "shaggy.smith@test.com",
+      "phone": "9921532429",
+      "title": "Jr. Developer",
+      "company": "Hola Enterprises",
+      "website": "connectwise.org"
+    },
+    {
+      "id": 7,
+      "name": "Amanda Jones Bynes",
+      "email": "amanda@gmail.com",
+      "phone": "8976567780",
+      "title": "Sr. Pastry Chef",
+      "company": "Hola Enterprises",
+      "website": "connectwise.org"
+    },
+    {
+      "id": 8,
+      "name": "Dummy User Test -2",
+      "email": "test@dummy.com",
+      "phone": "9898989665",
+      "title": "Chief Technician",
+      "company": "Any Company",
+      "website": "company.com"
+    },
+    {
+      "id": 9,
+      "name": "Test Data - 2",
+      "email": "test.another@test.com",
+      "phone": "797979797987",
+      "title": "Sr. Test Position",
+      "company": "Anything",
+      "website": "letsee.com"
+    }
+  ]
+}
